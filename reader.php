@@ -1,0 +1,1 @@
+Your first name is: <?php echo $_POST["first-name"]; ?> and your Favourite food is: <?php echo $_POST["fav-food"]; ?>.
